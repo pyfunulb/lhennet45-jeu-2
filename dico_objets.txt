@@ -1,0 +1,7 @@
+(1, 1), 'indice3 = 1813'
+(1, 19), "indice1 = do ré mi sol la si do"
+(3, 5), 'indice2 = "contre"'
+(13, 1), 'La Lettre à Élise a été composée en 1810'
+(13, 15), "Le flamenco vient d'Andalousie"
+(15, 19), 'Pierre et le Loup a été composé par Prokofiev '
+(19, 1), 'Le saxophone a été inventé au XIXe siècle'
